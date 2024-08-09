@@ -95,7 +95,7 @@ Here are some ideas to get you started:
         <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" width="40" height="40"/>
       </a>
       <a href="https://kali.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali-Linux" width="40" height="40"/>
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali-Linux" width="40" height="40"/>
       </a>
       <a href="https://nmap.org" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/>
