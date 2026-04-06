@@ -1,5 +1,5 @@
 ## Hi there 👋
-I talk about Cybersecurity and DevOps
+I talk about cybersecurity and technology
 <!--
 **sahilvinodMhatre/sahilvinodMhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
